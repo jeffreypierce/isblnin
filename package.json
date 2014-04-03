@@ -1,0 +1,19 @@
+{
+  "name": "isblnin",
+  "version": "0.0.1",
+  "description": "Where he at?",
+  "main": "app.js",
+  "dependencies": {
+    "jade": "~1.3.0",
+    "express": "~3.5.1",
+    "firmata": "~0.3.3",
+    "socket.io": "~0.9.16",
+    "stylus": "~0.42.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeffrey@jeffreypierce.net",
+  "license": "ISC"
+}
